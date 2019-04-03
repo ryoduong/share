@@ -2,6 +2,10 @@
 text
 text 1
 text 2
+<<<<<<< HEAD
 =======
 text
 >>>>>>> parent of 43bf82b... add new row 2
+=======
+text 3
+>>>>>>> ae7c26034a6ceaccbb09a91245b59cb7ce7268a1
